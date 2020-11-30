@@ -1,0 +1,19 @@
+#SECCION1 {
+    background-color: red;
+    text-align: center;
+}
+#SECCION2 {
+    background-color: yellow;
+    text-align: center;
+}
+#SECCION3 {
+    background-color: green;
+    text-align: center;
+}
+#acusaciones {
+    background-color: black;
+    color: white;
+}
+#promesas {
+    background-color: green;
+}
