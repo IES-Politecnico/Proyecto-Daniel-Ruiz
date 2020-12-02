@@ -3,7 +3,7 @@
     text-align: center;
 }
 #SECCION2 {
-    background-color: yellow;
+    background-color: blue;
     text-align: center;
 }
 #SECCION3 {
@@ -11,9 +11,24 @@
     text-align: center;
 }
 #acusaciones {
-    background-color: black;
     color: white;
 }
 #promesas {
     background-color: green;
+}
+#VIDABIDEN {
+    text-align: center;
+    color: white;
+}
+#todo {
+    text-align: center;
+    color: white;
+}
+#videnpresidente {
+    text-align: center;
+    color: white;
+}
+#trump {
+    text-align: center;
+    color: white;
 }
