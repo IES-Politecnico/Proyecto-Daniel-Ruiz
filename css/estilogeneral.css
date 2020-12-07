@@ -10,7 +10,7 @@
     background-color: green;
     text-align: center;
 }
-#acusaciones {
+#acusaciones2 {
     color: white;
 }
 #promesas {
@@ -24,7 +24,7 @@
     text-align: center;
     color: white;
 }
-#videnpresidente {
+#bidenpresidente {
     text-align: center;
     color: white;
 }
@@ -35,4 +35,37 @@
 #odiotrump {
     text-align: center;
     color: white;
+}
+#ul {
+    color: white;
+}
+#bidenpresidente2 {
+    background-color:white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#acusaciones {
+    background-color:white ;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#odiotrump2 {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#odiotrump3 {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#vidabiden2 {
+    background-color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#promesas2 {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
 }
